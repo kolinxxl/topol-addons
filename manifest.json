@@ -1,7 +1,7 @@
 {
   "domain": "topol_api",
   "name": "Topol DČOV Monitor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "documentation": "https://github.com/kolinxxl/topol-addons",
   "dependencies": [],
   "codeowners": ["@kolinxxl"],
