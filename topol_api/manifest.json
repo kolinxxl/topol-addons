@@ -1,0 +1,11 @@
+{
+  "domain": "topol_api",
+  "name": "Topol DČOV Monitor",
+  "version": "1.0.2",
+  "documentation": "https://github.com/kolinxxl/topol-addons",
+  "dependencies": [],
+  "codeowners": ["@kolinxxl"],
+  "requirements": [],
+  "integration_type": "hub",
+  "iot_class": "local_polling"
+}
