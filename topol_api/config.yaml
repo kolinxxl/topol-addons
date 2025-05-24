@@ -1,0 +1,13 @@
+name: "Topol ČOV API Proxy"
+version: "1.0.0"
+slug: "topol_api"
+description: "REST proxy pro čističku TopolWater"
+startup: application
+boot: auto
+homeassistant: 2023.0.0
+arch:
+  - amd64
+init: false
+host_network: true
+options: {}
+schema: {}
